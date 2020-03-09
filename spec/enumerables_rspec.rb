@@ -1,5 +1,5 @@
-require 'spec_helper'
-require './enumerables'
+require_relative 'spec_helper'
+require_relative '../enumerables'
 
 # class Array
 #     include Enumerable
