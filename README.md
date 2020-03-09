@@ -16,6 +16,12 @@ This project is achieved under the following restrictions:
 - Ruby
 - VS Code
 
+## Testing
+- clone this repo into your local folder
+- cd to `Enumerables` folder
+- run `rspec spec/enumerables_rspec.rb` in command line
+- `30 examples, 0 failures` should be output.
+
 ## Authors
 
 👤 **Kyle Law**
